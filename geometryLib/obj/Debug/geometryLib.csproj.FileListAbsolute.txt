@@ -1,0 +1,9 @@
+C:\Users\marca\source\repos\DrawingWinForms\geometryLib\bin\Debug\geometryLib.dll
+C:\Users\marca\source\repos\DrawingWinForms\geometryLib\bin\Debug\geometryLib.pdb
+C:\Users\marca\source\repos\DrawingWinForms\geometryLib\bin\Debug\vectorLib.dll
+C:\Users\marca\source\repos\DrawingWinForms\geometryLib\bin\Debug\vectorLib.pdb
+C:\Users\marca\source\repos\DrawingWinForms\geometryLib\obj\Debug\geometryLib.csprojAssemblyReference.cache
+C:\Users\marca\source\repos\DrawingWinForms\geometryLib\obj\Debug\geometryLib.csproj.CoreCompileInputs.cache
+C:\Users\marca\source\repos\DrawingWinForms\geometryLib\obj\Debug\geometryLib.csproj.CopyComplete
+C:\Users\marca\source\repos\DrawingWinForms\geometryLib\obj\Debug\geometryLib.dll
+C:\Users\marca\source\repos\DrawingWinForms\geometryLib\obj\Debug\geometryLib.pdb

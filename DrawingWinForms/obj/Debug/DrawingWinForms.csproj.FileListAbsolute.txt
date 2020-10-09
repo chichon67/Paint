@@ -1,0 +1,15 @@
+C:\Users\marca\source\repos\DrawingWinForms\DrawingWinForms\obj\Debug\DrawingWinForms.csprojAssemblyReference.cache
+C:\Users\marca\source\repos\DrawingWinForms\DrawingWinForms\obj\Debug\frmMain.Form1.resources
+C:\Users\marca\source\repos\DrawingWinForms\DrawingWinForms\obj\Debug\frmMain.Properties.Resources.resources
+C:\Users\marca\source\repos\DrawingWinForms\DrawingWinForms\obj\Debug\DrawingWinForms.csproj.GenerateResource.cache
+C:\Users\marca\source\repos\DrawingWinForms\DrawingWinForms\obj\Debug\DrawingWinForms.csproj.CoreCompileInputs.cache
+C:\Users\marca\source\repos\DrawingWinForms\DrawingWinForms\bin\Debug\DrawingWinForms.exe.config
+C:\Users\marca\source\repos\DrawingWinForms\DrawingWinForms\bin\Debug\DrawingWinForms.exe
+C:\Users\marca\source\repos\DrawingWinForms\DrawingWinForms\bin\Debug\DrawingWinForms.pdb
+C:\Users\marca\source\repos\DrawingWinForms\DrawingWinForms\bin\Debug\geometryLib.dll
+C:\Users\marca\source\repos\DrawingWinForms\DrawingWinForms\bin\Debug\vectorLib.dll
+C:\Users\marca\source\repos\DrawingWinForms\DrawingWinForms\bin\Debug\geometryLib.pdb
+C:\Users\marca\source\repos\DrawingWinForms\DrawingWinForms\bin\Debug\vectorLib.pdb
+C:\Users\marca\source\repos\DrawingWinForms\DrawingWinForms\obj\Debug\DrawingWinForms.csproj.CopyComplete
+C:\Users\marca\source\repos\DrawingWinForms\DrawingWinForms\obj\Debug\DrawingWinForms.exe
+C:\Users\marca\source\repos\DrawingWinForms\DrawingWinForms\obj\Debug\DrawingWinForms.pdb

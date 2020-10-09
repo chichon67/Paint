@@ -1,0 +1,6 @@
+C:\Users\marca\source\repos\DrawingWinForms\vectorLib\bin\Debug\vectorLib.dll
+C:\Users\marca\source\repos\DrawingWinForms\vectorLib\bin\Debug\vectorLib.pdb
+C:\Users\marca\source\repos\DrawingWinForms\vectorLib\obj\Debug\vectorLib.csproj.CoreCompileInputs.cache
+C:\Users\marca\source\repos\DrawingWinForms\vectorLib\obj\Debug\vectorLib.dll
+C:\Users\marca\source\repos\DrawingWinForms\vectorLib\obj\Debug\vectorLib.pdb
+C:\Users\marca\source\repos\DrawingWinForms\vectorLib\obj\Debug\vectorLib.csprojAssemblyReference.cache
